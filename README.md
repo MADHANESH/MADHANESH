@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ###   I AM MADHANESHWARAN M S
-###  Programming Enthusiast <img width="50" height="50" src="https://img.icons8.com/color/50/programming-flag.png" alt="programming-flag"/>
+###  <img width="50" height="50" src="https://img.icons8.com/color/50/programming-flag.png" alt="programming-flag"/>  Programming Enthusiast
 ---
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
