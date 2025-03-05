@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ###   I AM MADHANESHWARAN M S
-###  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACyElEQVR4nGNgGAWjYBSMgmEBzt68E3H++u3dgwlfuHE7nGSPnLtxZ9/5G3f+DyZ87vrtveR4ZD9I86krN/+v2nXo/4b9x/6fu3Hn/9lrt/+v23f0/9o9h/6fvnqTvh65cWc/2R5ZvevQ/wlL1oHxzmOn/287cgrOX7f3yNDxyMZ9R+EO33fq/P9dJ87C+ZsPHh86Hjl3487/HcdOgz0BM3DvyXP/dx47A0qzQ8cj5wcRPkeJR+YsXfW/sWfigOI5S1dR7pHYzLz/akYWA4pjM/NGPcIwGiNGo0nr/5DII2ZRev/NovX+q5uZD93Mbhys/7/sP/P//Hcc/9VNhnCp5dWnAPZI5BaxoVH8quMI7YQTgmCPOFepIsSNB6FH1E0s/juUqf2P2S2KIadpbfa/5Cfr/9K/LP91HE0Qjtsv8t+tRZmopBZLD49YZ2r9z7jNAw7x1Ct8GPJ2hRpguZSL/CjiILUwPZZJOgPnEet0bbhjwPgf8//QVZIY6kJXS4LlfafLYhWH6Y3aLvbfwMuQvh4BJQm4I/4z/08+z//fIgF7qOY85QKrMY/VxRoYGbcgsQnCxT9YwTFIN494T5CHWx6yEjMWMIrdt7iLXXUTc5TY8Z4gTz+PgPJF4Sd2uOWgjGvgY0hysavnZvw/fKP4/9K/EHNK/zL/d6pWpW8e0XMx/h+1TQwlWXh0K6KoSYQWu07IxS4Ue3Qp/i/6ygbXn3KJD2vyo1upZZWq/T/zHmaphavYRS+18l5zECyGY+lWj5iZ//eeJP8/+Rw/wWIXhlMu8P8PXi71X8vWdPDV7NoOJgSLXRjGFktqg8UjyDj7CaTYNYvRI0u/2mDwiKaFGTjduzUT1wQZtB5RozKOHfUIw2iM/B9NWkajeYS4Uqu5dzK41BhI3Nw7eXQ0nuH8jTs9Az35eR4d37jTQyAhjYJRMApGAcPQAAChScNVsl38qgAAAABJRU5ErkJggg==" alt="code"> Programming Enthusiast
+### <img width="50" height="50" src="https://img.icons8.com/color/50/code.png" alt="code"/>Programming Enthusiast
 ---
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
